@@ -1,0 +1,9 @@
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/bin/Debug/netstandard2.0/PizzaStore.Domain.deps.json
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/bin/Debug/netstandard2.0/PizzaStore.Domain.dll
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/bin/Debug/netstandard2.0/PizzaStore.Domain.pdb
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.csprojAssemblyReference.cache
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.AssemblyInfoInputs.cache
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.AssemblyInfo.cs
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.csproj.CoreCompileInputs.cache
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.dll
+/home/devin/revature_dotnet/week_1/PizzaStore/PizzaStore.Domain/obj/Debug/netstandard2.0/PizzaStore.Domain.pdb
